@@ -1,0 +1,16 @@
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#head{
+    display:flex;
+    justify-content:center;
+    background-color:green
+}
+#top-menu{
+    display:flex;
+    justify-content:space-evenly ;
+    background-color:
+}
+#html{
+
+}
