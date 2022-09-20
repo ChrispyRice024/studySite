@@ -4,13 +4,40 @@
 #head{
     display:flex;
     justify-content:center;
-    background-color:green
+    background-color:green;
+    text-shadow: 5px, 5px, 5px, green;
 }
 #top-menu{
     display:flex;
     justify-content:space-evenly ;
-    background-color:
+    
+    
 }
 #html{
-
+background-color:grey;
+display:row;
+width:500px;
+padding:20px;
+}
+.comment{
+    font-style: bold, italic;
+    font-family:Arial, Helvetica, sans-serif;
+    font: size 15pt;
+    color:red;
+    background-color:black;
+}
+.css{
+    display:flex
+    justify-content:center;
+    background-color:green;
+    width:500px
+}
+.main-content{
+    display:row flex;
+    background-color:pink;
+    justify-content:space-evenly;
+}
+.css .html{
+    dispaly:flex;
+    justify-content:space-evenly column;
 }
